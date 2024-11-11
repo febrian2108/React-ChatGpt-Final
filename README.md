@@ -4,14 +4,27 @@
  Project ini dibuat menggunakan ReactVite + Tailwind model yang digunakan adalah model dari ChatGPT yaitu text-davinci-003 yang sudah mendukung untuk berbahasa Indonesia dan Project ini juga menggunakan API ChatGPT, node_modules yang digunakan pada project ini adalah versi 3.1.0
  
 
-## Running Tests
 
-Untuk run tests, ikutin command ini
+## Installation
 
-```bash
-  npm install
-  npm run dev
-```
+Install React-ChatGpt-Final with npm
+
+1. Clone the repo
+   ```sh
+   https://github.com/febrian2108/React-ChatGpt-Final.git
+   ```
+2. Go to project
+   ```sh
+   cd React-ChatGpt-Final
+   ```
+3. install npm 
+   ```sh
+   npm install
+   ```
+4. run project
+   ```sh
+   npm run dev
+   ```
 
 ## UI React-ChatGPT
 
