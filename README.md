@@ -2,7 +2,11 @@
 # React-ChatGPT
 
  Project ini dibuat menggunakan ReactVite + Tailwind model yang digunakan adalah model dari ChatGPT yaitu text-davinci-003 yang sudah mendukung untuk berbahasa Indonesia dan Project ini juga menggunakan API ChatGPT, node_modules yang digunakan pada project ini adalah versi 3.1.0
+
  
+## UI React-ChatGPT
+
+![App Screenshot](https://imgur.com/6wK0rg0.png)
 
 
 ## Installation
@@ -25,8 +29,3 @@ Install React-ChatGpt-Final with npm
    ```sh
    npm run dev
    ```
-
-## UI React-ChatGPT
-
-![App Screenshot](https://imgur.com/6wK0rg0.png)
-
